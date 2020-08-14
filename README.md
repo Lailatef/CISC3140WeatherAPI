@@ -10,14 +10,15 @@ I use this website for using API data  https://openweathermap.org/api
 The instructions of the Website to get the Current weather Enter the city you want to know the information about it .
 it will shows to you :
 Example :
-Current Weather for Sanaa, YE
-Weather: Clouds
-Description: broken clouds
-Temperature: 21.73°C
-Pressure: 1006hPa
-Humidity: 51%
-Min-Temperature: 21.73°C
-Max-Temperature: 21.73°C
-Wind Speed: 1.67m/s
-Wind Direction: 266°
+
+1-Current Weather for Sanaa, YE
+2-Weather: Clouds
+3-Description: broken clouds
+4-Temperature: 21.73°C
+5-Pressure: 1006hPa
+6-Humidity: 51%
+7-Min-Temperature: 21.73°C
+8-Max-Temperature: 21.73°C
+9-Wind Speed: 1.67m/s
+10-Wind Direction: 266°
 

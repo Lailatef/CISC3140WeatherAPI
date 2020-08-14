@@ -10,9 +10,9 @@ I use this website for using API data  https://openweathermap.org/api
 The instructions of the Website to get the Current weather Enter the city you want to know the information about it .
 The result will be :
  
-1- Current Weather for Sanaa, YE
-2- Weather: Clouds
-3- Description: broken clouds
+1- Current Weather for Sanaa, YE.
+2- Weather: Clouds.
+3- Description: broken clouds.
 4- Temperature: 21.73°C
 5- Pressure: 1006hPa
 6- Humidity: 51%
@@ -20,9 +20,4 @@ The result will be :
 8- Max-Temperature: 21.73°C
 9- Wind Speed: 1.67m/s
 10- Wind Direction: 266°
-
-1- the name of the City
-2- The Temperature in celsius.
-3- The weather
-4- The description of the weather
 

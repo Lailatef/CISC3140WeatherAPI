@@ -21,3 +21,8 @@ The result will be :
 9- Wind Speed: 1.67m/s
 10- Wind Direction: 266°
 
+1- the name of the City
+2- The Temperature in celsius.
+3- The weather
+4- The description of the weather
+
